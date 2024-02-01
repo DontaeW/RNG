@@ -33,8 +33,6 @@ onBeforeUnmount(()=>{
 
 
 <style scoped>
-/** CSS STYLE HERE */
-
 
 </style>
   
